@@ -12,4 +12,4 @@ Using a dataset containing vibration data of various factory machines, our task 
 ![multimodal-architecture](./images/multimodal-architecture.png)
 
 ## Presentation with Methodology
-[final-presentation](./docs/final-presentation.pdf)
+[See here](./docs/final-presentation.pdf)
