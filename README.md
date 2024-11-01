@@ -7,3 +7,9 @@ Factory machines are the backbone of the industrial sector. A fault in any of th
 
 ## Objective
 Using a dataset containing vibration data of various factory machines, our task is to design a solution that detects machine faults, thereby aiding in predictive maintenance.
+
+## Overview of Model Methodology
+![multimodal-architecture](./images/multimodal-architecture.png)
+
+## Presentation with Methodology
+[final-presentation](./docs/final-presentation.pdf)
